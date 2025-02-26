@@ -5,13 +5,13 @@ import { SalesProvider } from './contexts/SalesContext';
 import Shop from './pages/Shop';
 import Home from './pages/Home';
 import ProductDetail from './pages/ProductDetail';
-import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import CartSidebar from './components/CartSidebar';
 import ComparisonPage from './pages/ComparisonPage';
 import Checkout from './pages/checkout';
 import AdminPage from './components/AdminPage';
 import OrderConfirmation from './components/OrderConfirmation';
+import Navbar from './components/NavBar';
 
 export default function App() {
   return (
