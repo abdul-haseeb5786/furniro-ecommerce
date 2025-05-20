@@ -11,7 +11,8 @@ import ComparisonPage from './pages/ComparisonPage';
 import AdminPage from './components/AdminPage';
 import OrderConfirmation from './components/OrderConfirmation';
 import Navbar from './components/NavBar';
-import Checkout from './pages/checkout';
+import Checkout from './pages/Checkout'  // For App.jsx
+
 
 export default function App() {
   return (
