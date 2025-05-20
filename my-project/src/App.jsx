@@ -8,10 +8,10 @@ import ProductDetail from './pages/ProductDetail';
 import Footer from './components/Footer';
 import CartSidebar from './components/CartSidebar';
 import ComparisonPage from './pages/ComparisonPage';
-import Checkout from './pages/checkout';
 import AdminPage from './components/AdminPage';
 import OrderConfirmation from './components/OrderConfirmation';
 import Navbar from './components/NavBar';
+import Checkout from './pages/checkout';
 
 export default function App() {
   return (
